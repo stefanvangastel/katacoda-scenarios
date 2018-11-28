@@ -14,7 +14,8 @@
     }],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "credits": "",
+      "courseData": "prereq.sh"
     },
     "finish": {
       "text": "finish.md"
