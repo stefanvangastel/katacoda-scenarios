@@ -1,2 +1,2 @@
 apt update -qq
-apt install -qqy inetutils-ping
+#apt install -qqy inetutils-ping
