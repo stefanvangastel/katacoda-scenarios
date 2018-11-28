@@ -12,4 +12,4 @@ Daarna volgt een set argumenten die we door de container (in de container) wille
 
 De container start in de `foreground` (voorgrond) en is dus gekoppeld aan onze eigen terminal, alle output (`STDOUT` en `STDERR`) van de container komt dus ook daar terecht. 
 
-`docker container run debian:latest echo "Hello Whale"`{{execute}}
+`docker run debian:latest echo "Hello Whale"`{{execute}}

@@ -10,6 +10,6 @@ Voer dit eens uit **in de terminal**:
 
 En voer dit eens uit **in de debian:latest container**: 
 
-`docker container run debian:latest cat /etc/*-release`{{execute}}
+`docker run debian:latest cat /etc/*-release`{{execute}}
 
 Je hebt dus binnen miliseconden een (compleet) andere besturingssysteem ter beschikking...
