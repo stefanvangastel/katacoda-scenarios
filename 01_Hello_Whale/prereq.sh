@@ -1,2 +1,5 @@
+# Apt update
 apt update -qq
-#apt install -qqy inetutils-ping
+
+# Install helpfull tools
+apt install -qqy inetutils-ping
