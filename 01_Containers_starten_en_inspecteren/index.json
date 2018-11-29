@@ -8,12 +8,14 @@
     "steps": [{
       "title": "1.1 Draaien van containers",
       "text": "1.1_opdracht.md",
-      "verify": "1.1_verify.sh"
+      "verify": "1.1_verify.sh",
+      "code": "prestep.sh"
     },
     {
       "title": " 1.2 Lijst van containers",
       "text": "1.2_opdracht.md",
-      "verify": "1.2_verify.sh"
+      "verify": "1.2_verify.sh",
+      "code": "prestep.sh"
     }],
     "intro": {
       "text": "intro.md",
