@@ -1,20 +1,18 @@
 {
-  "title": "1) Hello Whale",
-  "description": "Je eerst container draaien. (v1.0)",
+  "title": "1. Containers starten en inspecteren",
+  "description": "Aan het einde van deze oefening kun je het volgende:* Starten van een container;* Een lijst weergeven van draaiende en gestopte containers.",
   "difficulty": "beginner",
-  "time": "3 minuten",
+  "time": "10 minuten",
   "details": {
     "steps": [{
-      "title": "Stap 1 - Heb ik Docker?",
-      "text": "stap1.md"
+      "title": "1.1 Draaien van containers",
+      "text": "1.1_opdracht.md",
+      "verify": "1.1_verify.sh"
     },
     {
-      "title": "Stap 2 - Start een container",
-      "text": "stap2.md"
-    },
-    {
-      "title": "Stap 3 - Extra opdracht",
-      "text": "stap3.md"
+      "title": " 1.2 Lijst van containers",
+      "text": "1.2_opdracht.md",
+      "verify": "1.2_verify.sh"
     }],
     "intro": {
       "text": "intro.md",
