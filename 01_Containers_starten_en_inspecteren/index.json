@@ -20,6 +20,9 @@
     "intro": {
       "text": "intro.md",
       "credits": ""
+    },
+    "finish":{
+      "test": "finish.md"
     }
   },
   "environment": {
