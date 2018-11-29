@@ -3,6 +3,7 @@
   "description": "",
   "difficulty": "beginner",
   "time": "10 minuten",
+  "hidefinish": true,
   "details": {
     "steps": [{
       "title": "1.1 Draaien van containers",
@@ -18,9 +19,6 @@
       "text": "intro.md",
       "credits": "",
       "courseData": "prereq.sh"
-    },
-    "finish": {
-      "text": "finish.md"
     }
   },
   "environment": {
