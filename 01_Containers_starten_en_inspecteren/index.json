@@ -22,7 +22,7 @@
       "credits": ""
     },
     "finish":{
-      "test": "finish.md"
+      "text": "finish.md"
     }
   },
   "environment": {
