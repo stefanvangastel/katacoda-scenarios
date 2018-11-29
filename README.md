@@ -4,7 +4,7 @@
 
 ## Docker (beginner)
 
-1. Containers starten en inspecteren
+1. [Containers starten en inspecteren](https://www.katacoda.com/stefanvangastel/scenarios/01_containers_starten_en_inspecteren)
 
 
 Visit https://www.katacoda.com/stefanvangastel to view my profile and all interactive scenarios
