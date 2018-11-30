@@ -1,19 +1,22 @@
 {
-  "title": "1. Containers starten en inspecteren",
+  "title": "3. Logging",
   "description": "",
   "difficulty": "beginner",
   "time": "10 minuten",
   "details": {
     "steps": [{
-      "title": "1.1 Draaien van containers",
-      "text": "1.1_opdracht.md",
-      "verify": "1.1_verify.sh",
+      "title": "3.1 Container draaien in de achtergrond",
+      "text": "3.1_opdracht.md",
       "code": "pre-step.sh"
     },
     {
-      "title": " 1.2 Lijst van containers",
-      "text": "1.2_opdracht.md",
-      "verify": "1.2_verify.sh",
+      "title": " 3.2 Koppelen aan container ",
+      "text": "3.2_opdracht.md",
+      "code": "pre-step.sh"
+    },
+    {
+      "title": " 3.3 Logging opties",
+      "text": "3.3_opdracht.md",
       "code": "pre-step.sh"
     }],
     "intro": {
