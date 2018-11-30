@@ -9,6 +9,11 @@
       "text": "3.1_opdracht.md"
     },
     {
+      "title": " 3.2 Koppelen aan container ",
+      "text": "3.2_opdracht.md",
+      "code": "pre-step.sh"
+    },
+    {
       "title": " 3.3 Logging opties",
       "text": "3.3_opdracht.md",
       "code": "pre-step.sh"
