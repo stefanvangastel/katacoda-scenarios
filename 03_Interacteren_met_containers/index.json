@@ -6,8 +6,7 @@
   "details": {
     "steps": [{
       "title": "3.1 Container draaien in de achtergrond",
-      "text": "3.1_opdracht.md",
-      "code": "pre-step.sh"
+      "text": "3.1_opdracht.md"
     },
     {
       "title": " 3.2 Koppelen aan container ",

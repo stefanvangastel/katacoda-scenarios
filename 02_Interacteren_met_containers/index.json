@@ -7,8 +7,7 @@
     "steps": [{
       "title": "2.1 Schrijven naar containers",
       "text": "2.1_opdracht.md",
-      "verify": "2.1_verify.sh",
-      "code": "pre-step.sh"
+      "verify": "2.1_verify.sh"
     },
     {
       "title": " 2.2 Opnieuw verbinden naar containers",
