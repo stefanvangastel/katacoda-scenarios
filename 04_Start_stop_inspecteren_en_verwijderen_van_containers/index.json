@@ -1,16 +1,21 @@
 {
-  "title": "3. Logging",
+  "title": "4. Start, stop, inspecteren en verwijderen van containers",
   "description": "",
   "difficulty": "beginner",
   "time": "10 minuten",
   "details": {
     "steps": [{
-      "title": "3.1 Container draaien in de achtergrond",
-      "text": "3.1_opdracht.md"
+      "title": "4.1 Starten, herstarten en stoppen van Containers",
+      "text": "4.1_opdracht.md"
     },
     {
-      "title": " 3.3 Logging opties",
-      "text": "3.3_opdracht.md",
+      "title": "4.2 Inspecteren van een container",
+      "text": "4.2_opdracht.md",
+      "code": "pre-step.sh"
+    },
+    {
+      "title": "4.3 Verwijderen van Containers",
+      "text": "4.3_opdracht.md",
       "code": "pre-step.sh"
     }],
     "intro": {
