@@ -3,6 +3,7 @@
   "description": "",
   "difficulty": "beginner",
   "time": "10 minuten",
+  "authenticated": false,
   "details": {
     "steps": [{
       "title": "1.1 Draaien van containers",
