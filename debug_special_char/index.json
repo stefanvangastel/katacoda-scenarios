@@ -1,0 +1,22 @@
+{
+  "title": "MS Word dash example",
+  "description": "",
+  "difficulty": "beginner",
+  "time": "1 minute",
+  "hideintro": true,
+  "hidefinish": true,
+  "details": {
+    "steps": [{
+      "title": "example",
+      "text": "example.md"
+    }]
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mHier gebeurt het.\r\nVoer het `docker` command uit om de mogelijkheden te zien.\u001b[m\r\n",
+    "icon": "fa-docker"
+  },
+  "backend": {
+    "imageid": "docker"
+  }
+}
