@@ -14,8 +14,7 @@
     },
     {
       "title": " 3.3 Logging opties",
-      "text": "3.3_opdracht.md",
-      "code": "pre-step.sh"
+      "text": "3.3_opdracht.md"   
     }],
     "intro": {
       "text": "intro.md",
