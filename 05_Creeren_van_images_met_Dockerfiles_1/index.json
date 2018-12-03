@@ -32,7 +32,8 @@
   ],
   "environment": {
     "uilayout": "editor-terminal",
-    "icon": "fa-docker"
+    "icon": "fa-docker",
+    "uisettings": "dockerfile"
   },
   "backend": {
     "imageid": "docker"
