@@ -7,7 +7,8 @@
   "details": {
     "steps": [{
       "title": "5.1 Maken van een Dockerfile",
-      "text": "5.1_opdracht.md"
+      "text": "5.1_opdracht.md",
+      "courseData": "delete-images.sh",
     },
     {
       "title": "5.2 Gebruik maken van build cache",
