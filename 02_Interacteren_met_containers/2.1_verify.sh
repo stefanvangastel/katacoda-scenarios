@@ -1,1 +1,0 @@
-(( $(docker ps -a | grep debian 2>/dev/null | wc -l) >= 2 )) && echo \"done\"

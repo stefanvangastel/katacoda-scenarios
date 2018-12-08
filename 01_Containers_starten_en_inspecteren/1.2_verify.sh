@@ -1,1 +1,0 @@
-(( $(docker ps -a | grep great_stromanz 2>/dev/null | wc -l) >= 1 )) && echo \"done\"
