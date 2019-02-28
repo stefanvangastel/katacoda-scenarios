@@ -1,6 +1,5 @@
-This shouldn’t take long...
 
-Start by installing k3s using the following command:
+Start installing k3s using the following command:
 
 `curl -sfL https://get.k3s.io | sh -`{{execute}}
 
