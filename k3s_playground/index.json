@@ -7,8 +7,7 @@
   "details": {
     "steps": [{
       "title": "This shouldn’t take long...",
-      "text": "k3s_playground.md",
-      "code": "script.sh"
+      "text": "k3s_playground.md"
     }]
   },
   "intro": {
