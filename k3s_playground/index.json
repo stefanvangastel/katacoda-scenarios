@@ -1,0 +1,27 @@
+{
+  "title": "k3s playground",
+  "description": "",
+  "difficulty": "beginner",
+  "time": "10 minuten",
+  "authenticated": false,
+  "details": {
+    "steps": [{
+      "title": "This shouldn’t take long...",
+      "text": "k3s_playground.md",
+      "code": "script.sh"
+    }]
+  },
+  "intro": {
+    "text": "intro.md",
+    "credits": "https://k3s.io/"
+  },
+  "finish":{
+    "text": "finish.md"
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
