@@ -19,7 +19,8 @@
     "text": "finish.md"
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "icon": "fa-kubernetes"
   },
   "backend": {
     "imageid": "ubuntu"
